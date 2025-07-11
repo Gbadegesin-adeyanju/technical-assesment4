@@ -19,3 +19,4 @@ python manage.py migrate
 # Runserver
 python manage.py runserver
 
+swagger link: https://mini-trello-rog1.onrender.com/swagger/
